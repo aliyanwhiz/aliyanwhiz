@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working three.js<br>👯 I’m looking to collaborate in JavaScript repo's<br>🤝 I’m looking for help flutter<br>🌱 I’m currently learning MERN<br>💬 Ask me about myself<br>⚡ Fun fact : i can speak 5 languages
+🔭 I’m currently working three.js<br>👯 I’m looking to collaborate in JavaScript repo's<br>🤝 I’m looking for help with flutter<br>🌱 I’m currently learning MERN<br>💬 Ask me about myself<br>⚡ Fun fact : i can speak 5 languages
 
 
 ## 🌐 Socials:
